@@ -4,6 +4,7 @@ SG Bus Lai Liao — Real-time Singapore bus arrivals on your wrist.
 
 Powered by LTA DataMall, get live bus arrival times for any 
 bus stop in Singapore directly on your Pebble watch.
+Coded in cloudpebble.repebble.com
 
 ## Features
 - Nearby Stops — GPS-based detection of 5 closest bus stops
@@ -31,4 +32,4 @@ bus stop in Singapore directly on your Pebble watch.
 - Enter your LTA API key in the app settings
 
 ## License
-MIT
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
